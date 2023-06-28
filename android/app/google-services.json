@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72774493201",
+    "project_id": "webinventivapp",
+    "storage_bucket": "webinventivapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72774493201:android:db457f14467ba6261dbdb0",
+        "android_client_info": {
+          "package_name": "com.example.webinventivapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72774493201-u5694pbtd8iqbhs0n5u9n901241bqnqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqfbGpiduhkwoSAYtTV4ywPZIs3lyh_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72774493201-u5694pbtd8iqbhs0n5u9n901241bqnqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
