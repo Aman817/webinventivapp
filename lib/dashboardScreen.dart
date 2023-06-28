@@ -77,7 +77,7 @@ class _DashBoardScreenActivityState extends State<DashBoardScreenActivity> {
                               Text(
                                 snapshot.data!.docs[index]['Description'] ?? '',
                                 style: TextStyle(
-                                    fontWeight: FontWeight.w500, fontSize: 15),
+                                    fontWeight: FontWeight.bold, fontSize: 15),
                               ),
                             ],
                           ),
